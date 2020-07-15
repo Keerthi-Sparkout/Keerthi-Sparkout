@@ -1,11 +1,14 @@
-### Hi there 👋
+## Hi I'm Keerthi 👋
 
-**Keerthi-Sparkout/Keerthi-Sparkout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Expertise
 
-Here are some ideas to get you started:
-
+* iOS Application Development
+* Design Patterns (MVC | MVVM)
+* Unit Testing
+* Project Management
+- 🔖 
 - 🔭 I’m currently working on Sparkout Tech Solutions
 - 🤔 I’m looking for help with ... iPad Support
-- 💬 Ask me about ... Swift, iOs
+- 💬 Ask me about ... Swift, iOS
 - 📫 How to reach me: ...keerthi@sparkouttech.com
 - 😄 Pronouns: ... She/Her
