@@ -2,7 +2,7 @@
 
 > ###### Call Me When you need the best iOS Developer  
 
-### :sparkles: Expertise
+### :sparkles: Expertise :
 
 * iOS Application Development (Swift)
 * Design Patterns (MVC | MVVM)
