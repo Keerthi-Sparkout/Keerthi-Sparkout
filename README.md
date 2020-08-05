@@ -23,7 +23,7 @@
 * Github :octocat: - https://github.com/Keerthi-Sparkout
 * LinkedIn - https://www.linkedin.com/in/keerthi-velusamy-215791119
 
-### 📊 Stats and Languages: 
+### 📊 Stats: 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Keerthi-Sparkout&show_icons=true) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keerthi-Sparkout)
 
