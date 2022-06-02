@@ -10,12 +10,12 @@
 * iPhone | iPad
 * Payment Gateways (Paypal | PayTM | Stripe)
 * Project Management
+* CI | CD
 
 ### 🌱 Learning :
 
 * SwiftUI
 * Viper
-* CI | CD
 
 ### 📫 Reach me via 👇🏻: 
 
